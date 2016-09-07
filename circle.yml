@@ -1,0 +1,3 @@
+tests:
+  post:
+    - echo "Hi"
